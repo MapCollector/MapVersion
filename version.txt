@@ -1,2 +1,4 @@
 v1.0.0
 https://codeload.github.com/MapCollector/Map/zip/master
+v2.0.0
+https://codeload.github.com/MapCollector/Map/zip/master
